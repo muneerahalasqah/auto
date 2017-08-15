@@ -1,0 +1,7 @@
+start_chrome("https://www.bing.com/")
+write("cloudsystems.sa")
+press(ENTER)
+click("Cloud Systems")
+scroll_down()
+click("Contact Us")
+kill_browser()
